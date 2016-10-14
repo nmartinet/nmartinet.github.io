@@ -20,7 +20,7 @@ module.exports = {
   },
   output: {
     filename: 'bundle.js',
-    path: 'docs',
+    path: __dirname,
     libraryTarget: 'umd'
   },
   module: {
