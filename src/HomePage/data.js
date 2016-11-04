@@ -1,5 +1,16 @@
 export default [
 {
+title: 'the all man bros',
+link: 'https://github.com/nmartinet/allManBand',
+desc: `
+Website for my borther's band, the all man bros. 
+
+Check'em out if you're in montreal [allmanbrothersarebelongto.us](http://allmanbrothersarebelongto.us).
+
+Semi-static site build with react/webpack. 
+`
+},
+{
 title: 'nmartinet.github.io',
 link: 'https://github.com/nmartinet/nmartinet.github.io',
 desc: `
