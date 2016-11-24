@@ -1,5 +1,25 @@
 export default [
 {
+  title: 'chainFactorJS',
+  link: 'https://github.com/nmartinet/chainFactorJS',
+  desc: `
+Playable [here](https://nmartinet.github.io/chainFactorJS/)
+
+A remake chain factor a fun little flash puzzle game from a couple of years ago. 
+
+Made uing js and phaser.
+`
+},
+{
+  title: 'Cloud City Customs',
+  link: 'https://github.com/nmartinet/cccustoms',
+  desc: `
+Websit for Cloud City Customs. Guitar repair and maintenance in montreal.
+
+Chhck them out at [CloudCityCustoms.com](http://CloudCityCustoms.com)
+`
+},
+{
 title: 'the all man bros',
 link: 'https://github.com/nmartinet/allManBand',
 desc: `
